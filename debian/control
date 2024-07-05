@@ -14,7 +14,7 @@ Build-Depends:
  libsqlite3-dev,
  libcurl-dev,
  libmongoc-dev,
- pkg-config,
+ pkgconf,
  libcmocka-dev,
  libsafu-dev,
  libsamconf-dev,
