@@ -1,7 +1,11 @@
-elos (0.59.2-0ubuntu1~ppa1) oracular; urgency=medium
+elos (0.59.2-0ubuntu1~ppa2) oracular; urgency=medium
 
   * Initial release (LP: #2069879).
     Based on upstream debian.native directory.
   * Remove README.md from debian/native.
+  * debian: update maintainer to Ubuntu Developers.
+  * debian: fix pkgconfig package name.
+  * debian: remove vcs fields from control file.
+  * debian: set elos section to admin.
 
  -- Alexandre Esse <alexandre.esse@canonical.com>  Fri, 05 Jul 2024 08:42:24 +0200
